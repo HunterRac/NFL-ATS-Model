@@ -1,0 +1,7 @@
+nflreadpy
+pandas
+pyarrow
+scikit-learn
+scipy
+matplotlib
+jupyterlab
